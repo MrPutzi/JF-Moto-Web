@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Models = () => {
+function Models() {
   return (
     <div>models</div>
   )

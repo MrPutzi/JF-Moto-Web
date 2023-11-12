@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+https://www.npmjs.com/package/react-motion-animate
+
+https://flowbite.com/
+
+https://tailwindcss.com/docs/backdrop-blur
+
+https://www.flowbite-react.com/docs/customize/theme
+

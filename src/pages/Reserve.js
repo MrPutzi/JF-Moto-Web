@@ -37,6 +37,7 @@ const Reserve = props => {
         // by entering their email and phone number
         // on a separate page
         // TODO: implement view reservation page
+
     }
 
     return (
